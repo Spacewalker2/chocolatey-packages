@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ollydbg</id>
+    <version>1.10</version>
+    <owners>Spacewalker</owners>
+    <title>OllyDbg</title>
+    <authors>Oleh Yuschuk</authors>
+    <projectUrl>http://www.ollydbg.de/</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/ollydbg.png</iconUrl>-->
+    <copyright>Shareware</copyright>
+    <licenseUrl>http://www.ollydbg.de/download.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>http://www.ollydbg.de/quickst.htm</docsUrl>
+    <tags>reverse engineering debugger disassembler binary analysis</tags>
+    <description>OllyDbg is a 32-bit assembler level analysing debugger for Microsoft® Windows®. Emphasis on binary code analysis makes it particularly useful in cases where source is unavailable. OllyDbg is a shareware, but you can download and use it for free.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
