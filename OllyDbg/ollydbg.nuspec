@@ -7,7 +7,7 @@
     <title>OllyDbg</title>
     <authors>Oleh Yuschuk</authors>
     <projectUrl>http://www.ollydbg.de/</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/ollydbg.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/Spacewalker2/chocolatey-packages/master/Icons/OllyDbg.png</iconUrl>
     <copyright>Shareware</copyright>
     <licenseUrl>http://www.ollydbg.de/download.htm</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
