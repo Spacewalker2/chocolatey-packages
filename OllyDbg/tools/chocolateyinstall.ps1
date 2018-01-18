@@ -10,8 +10,8 @@ $toolsDir = Join-Path $toolsDir $packageName
 $packageArgs = @{
   packageName   = $packageName
   unzipLocation = $toolsDir
-  url           = 'http://www.ollydbg.de/odbg110.zip'
-  checksum      = '73B1770F28893DAB22196EB58D45EDE8DDF5444009960CCC0107D09881A7CD1E'
+  url           = 'http://www.ollydbg.de/odbg201.zip'
+  checksum      = '29244e551be31f347db00503c512058086f55b43c93c1ae93729b15ce6e087a5'
   checksumType  = 'sha256'
 }
 Install-ChocolateyZipPackage @packageArgs
